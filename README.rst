@@ -1402,6 +1402,8 @@ SocialNetworks
         
 * |OK_ICON| `Facebook Social Networks from LAW (since 2007) <http://law.di.unimi.it/datasets.php>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/Facebook-Social-Networks-from-LAW-since-2007.yml>`_]
         
+* |OK_ICON| `FIFA World Cup 2022 Tweets <https://www.kaggle.com/datasets/tirendazacademy/fifa-world-cup-2022-tweets>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/fifa-world-cup-2022-tweets.yml>`_]
+
 * |OK_ICON| `Foursquare from UMN/Sarwat (2013) <https://archive.org/details/201309_foursquare_dataset_umn>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/Foursquare-from-UMN-Sarwat-2013.yml>`_]
         
 * |OK_ICON| `GitHub Collaboration Archive <https://www.gharchive.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/GitHub-Collaboration-Archive.yml>`_]
